@@ -1,0 +1,170 @@
+{
+  "Header": {
+    "title": "Ремонт интерьра ВС",
+    "paragraph": "Комплексные решения в области ремонта интерьера воздушных судов"
+  },
+  "About": {
+    "paragraph": "ООО «ИнтерТех» – это команда высококвалифицированных профессионалов, специализирующаяся на предоставлении широкого спектра услуг по ремонту и восстановлению интерьеров воздушных судов. Мы гордимся нашим опытом в работе с лакокрасочными покрытиями, в том числе шпонированных поверхностей, ремонте компонентов интерьеров. Сертификат ФАП-145 подтверждает наше соответствие самым высоким стандартам авиационной безопасности и качества. Наличие современного оборудования и глубокое понимание нюансов работы с авиационными материалами позволяют нам решать самые сложные задачи, обеспечивая безупречный результат"
+
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-paint-brush",
+      "name": "Лакокрасочные покрытия",
+      "text": "Восстановление лакокрасочных покрытий элементов конструкции ВС"
+    },
+    {
+      "icon": "fa fa-shield",
+      "name": "Поверхности из шпона",
+      "text": "Восстановление лакового покрытия шпонированных поверхностей интерьера ВС"
+    },
+    {
+      "icon": "fa fa-user",
+      "name": "Ремонт кресел ВС",
+      "text": "Очистка, инспекция и ремонт пассажирских кресел ВС различного типа"
+    },
+    {
+      "icon": "fa fa-scissors",
+      "name": "Работа с кожей",
+      "text": "Восстановление поврежденных кожаных элементов интерьера"
+    },
+    {
+      "icon": "fa fa-tint",
+      "name": "Химчистка",
+      "text": "Эффективное удаление пятен и загрязнений с поверхностей различного типа"
+    },
+    {
+      "icon": "fa fa-cog",
+      "name": "Другой ремонт интерьеров ВС",
+      "text": "Ремонт и восстановление ЛКП облицовок дверей, боковых панелей и других элементов интерьера ВС"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Лаишевский район, село Столбище, ул.Взлетная, д.3 ",
+    "phone": "+1 123 456 1234",
+    "email": "office@inter-tech.su"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-wrench",
+      "title": "Современное оборудование",
+      "text": "Мы используем передовые технологии и профессиональное оборудование для ремонта лакокрасочных покрытий компонентов ВС."
+    },
+    {
+      "icon": "fa fa-trophy",
+      "title": "Соответствие требованиям ФАП-145",
+      "text": "Наша деятельность соответствует требованиям Федеральных авиационных правил, гарантируя безопасность и надежность."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Гибкость и клиентоориентированность",
+      "text": "Мы готовы находить индивидуальные решения, максимально соответствующие вашим потребностям."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Квалифицированный персонал",
+      "text": "Наша команда – это опытные специалисты, обладающие глубокими знаниями и большим опытом в области ремонта интерьеров ВС."
+    }
+  ]
+}
